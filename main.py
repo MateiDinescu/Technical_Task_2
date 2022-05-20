@@ -5,7 +5,7 @@ import time
 # C:\Users\Matei\Desktop\Original
 # C:\Users\Matei\Desktop\Replica
 
-# Here the user inputs the path to the 2 folders, one being the source ant the other one being the replica
+# Here the user inputs the path to the 2 folders, one being the source and the other one being the replica
 
 print("Please write the full path to the folder you want as source!")
 source = str(input())
